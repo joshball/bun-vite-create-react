@@ -1,6 +1,19 @@
 # React + TypeScript + Vite
 
 
+## Running
+
+Backend:
+bun run server.ts
+http://127.0.0.1:5150/api
+
+
+Frontend React:
+bun dev
+http://localhost:5173/
+
+
+
 ## Steps
 
 Created:
@@ -11,6 +24,8 @@ bun create vite@latest bun-vite-create-cfp
 
 gh auth login
 gh repo create
+
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

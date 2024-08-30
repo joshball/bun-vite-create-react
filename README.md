@@ -1,5 +1,18 @@
 # React + TypeScript + Vite
 
+
+## Steps
+
+Created:
+
+https://developers.cloudflare.com/pages/framework-guides/deploy-a-vite3-project/
+
+bun create vite@latest bun-vite-create-cfp
+
+gh auth login
+gh repo create
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

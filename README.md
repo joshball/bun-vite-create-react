@@ -13,6 +13,9 @@ bun dev
 http://localhost:5173/
 
 
+Built for pages/functions
+bun run preview:wrangler
+http://localhost:8788
 
 ## Steps
 

@@ -1,4 +1,4 @@
-import app from "./backend/app";
+import app from "./server/app";
 import { z } from "zod";
 
 // const PORT = process.env.PORT || 5150

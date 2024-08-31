@@ -10,7 +10,7 @@ app.get('/test', async (c) => {
 // route grouping
 app.route('/api', api)
 
-// catch unknown backend routes
+// catch unknown server routes
 app.get('/api/*', (c) => {
   return c.text('UNKNOWN ROUTE!')
 })
